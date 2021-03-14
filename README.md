@@ -1,4 +1,4 @@
-# Array utility
+# Array utility(Archived)
 ### *A simple python utility library*
 
 ## What is PyArray ?
